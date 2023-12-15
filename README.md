@@ -1,9 +1,7 @@
-<p style="text-align:center; font-size:30px">计算机图形学期末项目：L-System Tree</p>
-<p style="text-align:center; font-size:20px">第一小组</p>
 
 ## 项目介绍
 
-我们实现的L-System Tree项目结构如下：
+L-System Tree项目结构如下：
 
 ```
 /LSystemTree
